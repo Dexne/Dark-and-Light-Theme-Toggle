@@ -8,7 +8,7 @@ El proyecto consiste en un interruptor (toggle) que permite a los usuarios cambi
 
 ## Vista Previa
 
-![Preview](./assets/demostración.gif)
+![Preview](https://github.com/Dexne/Dark-and-Light-Theme-Toggle/blob/main/assets/demostraci%C3%B3n.gif)
 
 ## Demo
 
@@ -28,7 +28,7 @@ El proyecto está organizado en los siguientes archivos:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/dark-and-light-theme.git
+git clone https://github.com/Dexne/Dark-and-Light-Theme-Toggle.git
 ```
 
 2. Navega al directorio del proyecto:
